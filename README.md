@@ -1,1 +1,2 @@
-Projekt automatycznej jadłodajni zrewolucjonizuje market gastronomiczny.
+Tu są testy związane z aplikacją klienta
+
