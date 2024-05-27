@@ -1,0 +1,19 @@
+Zadania funkcjonalne:
+•	łapa powinna mieć skoordynowane ruchy
+•	łapa powinna poruszać się nie za szybko, ani za wolno
+•	łapa nie powinna miażdżyć jedzenia
+•	ekran z aplikacją powinien być ustawiony przed łapą
+•	podgrzewacz do parówek powinien ich nie przypalać
+•	okablowanie powinno być nie widoczne z zewnątrz, oraz powinno być odpowiednio zabezpieczone
+•	łapa nie powinna się przegrzewać
+
+
+
+Zadnia niefunkcjonalne:
+•	ekran z aplikacją powinien znajdować się na takiej wysokości żeby osoby niższe nie miały problemu z dosięgnięciem oraz żeby osoby wyższe nie musiały się schylać
+•	aplikacja powinna mieć opcje językowe
+•	tablet z aplikacją oraz terminal powinien być odpowiednio oznaczony
+•	łapa powinna zostać z tworzyw sztucznych żeby zmniejszyć koszty
+•	aplikacja powinna posiadać informacje o alergenach oraz wartości odżywczej
+•	aplikacja powinna posiadać ustawienia dla osób niewidomych
+•	aplikacja powinna posiadać proste i schludne UI
